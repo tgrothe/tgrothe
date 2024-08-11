@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on ... 🚫
 - 🌱 I’m currently learning ... Java/C++/asm
 - 👯 I’m looking to collaborate on ... 🚫
-- 🤔 I’m looking for help with ... 🚫
+- 🤔 I’m looking for help with ... the [MMClient repo](https://github.com/tgrothe/MMClient)
 - 💬 Ask me about ... coming soon
-- 📫 How to reach me: ... coming soon
-- 😄 Pronouns: ... he
+- 📫 How to reach me: ... PM me at [X @grothe_tobias](https://x.com/grothe_tobias) if necessary
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... You can actually die laughing. And a number of people have, typically due to intense laughter causing a heart attack or suffocation.
 
 ![](https://komarev.com/ghpvc/?username=tgrothe)
