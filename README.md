@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... 🚫
 - 🤔 I’m looking for help with ... the [MMClient repo](https://github.com/tgrothe/MMClient)
 - 💬 Ask me about ... coming soon
-- 📫 How to reach me: ... PM me at [X @grothe_tobias](https://x.com/grothe_tobias) if necessary
+- 📫 How to reach me: ... by e-mail to mail@tobias1.info if required
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... You can actually die laughing. And a number of people have, typically due to intense laughter causing a heart attack or suffocation.
 
