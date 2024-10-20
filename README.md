@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... 🚫
-- 🌱 I’m currently learning ... Java/C(++)/asm
-- 👯 I’m looking to collaborate on ... 🚫
-- 🤔 I’m looking for help with ... 🚫
-- 💬 Ask me about ... soon
-- 📫 How to reach me: ... by e-mail to mail@tobias1.info if required
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 	"Bats are the only flying mammals."
+- 🔭 I’m currently working on      ... ⛔
+- 🌱 I’m currently learning        ... Java, C(++), asm
+- 👯 I’m looking to collaborate on ... ⛔
+- 🤔 I’m looking for help with     ... ⛔
+- 💬 Ask me about                  ... 🤔
+- 📫 How to reach me:              ... by e-mail if required (see on the left hand side)
+- 😄 Pronouns:                     ... he/him
+- ⚡ Fun fact:                     ... "Correct punctuation is crucial!"
 
 ![](https://komarev.com/ghpvc/?username=tgrothe)
 
