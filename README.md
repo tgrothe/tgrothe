@@ -4,14 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## About Me
 
-- 🔭 I’m currently working on **-**
-- 🌱 I’m currently learning **Java, C(++), asm**
-- 👯 I’m looking to collaborate on **Open Source Projects or Areas of Interest**
-- 🤔 I’m looking for help with **Any Specific Help Needed**
-- 💬 Ask me about **Expertise or Interests**
+- 🔭 I’m currently working on: **-**
+- 🌱 I’m currently learning: **Java, C(++), asm**
+- 👯 I’m looking to collaborate on: **Open Source Projects or Areas of Interest**
+- 🤔 I’m looking for help with: **Any Specific Help Needed**
+- 💬 Ask me about: **Expertise or Interests**
 - 📫 How to reach me: **Email or Social Media**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **"Correct punctuation is crucial!"**
 
 ## GitHub Stats
 
@@ -42,8 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## Highlights
 
-- 🏆 Achievement 1
-- 🏆 Achievement 2
+- 🏆 Achievement ...
 
 ## Fun Projects
 
