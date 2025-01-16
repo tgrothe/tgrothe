@@ -1,6 +1,6 @@
 # Hi there, I'm Tobias Grothe! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate developer with interests in all kinds of programming and new technologies.
 
 ## About Me
 
@@ -47,3 +47,5 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - Fun Project 1 - A brief description of Fun Project 1.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just want to say hi! 😊
+
+I'm always looking to improve my welcome message. If you have any suggestions or ideas, please let me know!
