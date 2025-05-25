@@ -1,6 +1,6 @@
 # Hi there, I'm Tobias Grothe! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in all kinds of programming and new technologies.
+Welcome to my GitHub profile! I'm a computer science student with interests in all kinds of programming and new technologies.
 
 ## About Me
 
