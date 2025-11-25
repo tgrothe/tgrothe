@@ -13,18 +13,18 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## GitHub Stats
 
-![tgrothe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgrothe&show_icons=true&theme=radical)
-
 ![](https://komarev.com/ghpvc/?username=tgrothe)
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgrothe&layout=compact&theme=radical)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=tgrothe&theme=journey&pixelate_avatar=false&screen_effect=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=tgrothe&theme=journey&pixelate_avatar=false&screen_effect=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=tgrothe&theme=journey&pixelate_avatar=false&screen_effect=false">
+</picture>
 
 ## Connect with Me
 
-- Email (left sidebar)
-- Social Media (left sidebar)
+- E-Mail (left sidebar)
+- Website (left sidebar)
 
 ## Recent Projects
 
