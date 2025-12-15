@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 ## About Me
 
 - 🔭 I’m currently working on: **-**
-- 🌱 I’m currently learning: **Java, C(++), asm**
-- 👯 I’m looking to collaborate on: **Open Source Projects or Areas of Interest**
-- 🤔 I’m looking for help with: **Any Specific Help Needed**
-- 💬 Ask me about: **Expertise or Interests**
-- 📫 How to reach me: **Email or Social Media**
+- 🌱 I’m currently learning: **Java, C++**
+- 👯 I’m looking to collaborate on: **(Areas of Interest)**
+- 🤔 I’m looking for help with: **-**
+- 💬 Ask me about: **(idk, something)**
+- 📫 How to reach me: **Issues in repositories, or via Website or E-Mail**
 
 ## GitHub Stats
 
@@ -23,28 +23,23 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## Connect with Me
 
-- E-Mail (left sidebar)
+- Issues in [repositories tab](https://github.com/tgrothe?tab=repositories)
 - Website (left sidebar)
+- E-Mail (left sidebar)
 
 ## Recent Projects
 
-- Project 1 - A brief description of Project 1.
+- [java-port-knock](https://github.com/tgrothe/java-port-knock) - Simple port knock client in Java
 
 ## Open Source Contributions
 
-- Contribution 1 - Description of your contribution.
-
-## Blog Posts
-
-- Post 1 - A brief description of Post 1.
+- [Dungeon-CampusMinden/Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon)
 
 ## Highlights
 
-- 🏆 Achievement ...
+- 🏆 Achievements
 
-## Fun Projects
-
-- Fun Project 1 - A brief description of Fun Project 1.
+## Closing Thoughts
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just want to say hi! 😊
 
