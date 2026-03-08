@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## About Me
 
-- 🔭 I’m currently working on: **-**
-- 🌱 I’m currently learning: **Java, C++**
-- 👯 I’m looking to collaborate on: **(Areas of Interest)**
+- 🔭 I’m currently working on: **Bachelor thesis**
+- 🌱 I’m currently learning: **🤔**
+- 👯 I’m looking to collaborate on: **-**
 - 🤔 I’m looking for help with: **-**
-- 💬 Ask me about: **(idk, something)**
-- 📫 How to reach me: **Issues in repositories, or via Website or E-Mail**
+- 💬 Ask me about: **(idk... something)**
+- 📫 How to reach me: **via Issues in repositories or via my Website/Blog**
 
 ## GitHub Stats
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 - Issues in [repositories tab](https://github.com/tgrothe?tab=repositories)
 - Website (left sidebar)
-- E-Mail (left sidebar)
+  - ↪️ and then see "Contact/Captcha/E-Mail" there 😀💡
 
 ## Recent Projects
 
