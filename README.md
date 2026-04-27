@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## About Me
 
-- 🔭 I’m currently working on: **(for internal use only)**
+- 🔭 I’m currently working on: **-**
 - 🌱 I’m currently learning: **-**
 - 👯 I’m looking to collaborate on: **-**
 - 🤔 I’m looking for help with: **-**
@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## Recent Projects
 
-- [java-port-knock](https://github.com/tgrothe/java-port-knock) - Simple port knock client in Java
-- [java-clipboard-to-image-collage](https://github.com/tgrothe/java-clipboard-to-image-collage) - Convert contents of system clipboard to an image collage
+- See "Pinned" below.
 
 ## Open Source Contributions
 
