@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## About Me
 
-- 🔭 I’m currently working on: **-**
-- 🌱 I’m currently learning: **-**
-- 👯 I’m looking to collaborate on: **-**
-- 🤔 I’m looking for help with: **-**
-- 💬 Ask me about: **(idk... something)**
-- 📫 How to reach me: **via Issues in repositories or via my Website/Blog**
+- 🔭 I’m currently working on: foo
+- 🌱 I’m currently learning: bar
+- 👯 I’m looking to collaborate on: baz
+- 🤔 I’m looking for help with: qux
+- 💬 Ask me about: quux
+- 📫 How to reach me: **via issues under the repositories tab or via my website/blog.**
 
 ## GitHub Stats
 
@@ -33,11 +33,11 @@ Welcome to my GitHub profile! I'm a computer science student with interests in a
 
 ## Open Source Contributions
 
-- [Dungeon-CampusMinden/Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon)
+- corge
 
 ## Highlights
 
-- 🏆 Achievements
+- grault
 
 ## Closing Thoughts
 
